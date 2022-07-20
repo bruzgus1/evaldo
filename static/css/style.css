@@ -5,3 +5,9 @@
 ul li {
     list-style-type: none;
 }
+
+.stuff {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
